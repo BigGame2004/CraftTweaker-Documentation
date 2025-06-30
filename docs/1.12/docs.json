@@ -601,6 +601,15 @@
             "Binding Support": "Mods/CompatSkills/Supports/BloodMagic/Binding_Support.md",
             "Ritual Support": "Mods/CompatSkills/Supports/BloodMagic/Ritual_Support.md"
           },
+          "GalaxySpace": {
+            "GalaxySpace": "Mods/CompatSkills/Supports/GalaxySpace/Assembly_Machine.md",
+            "GalaxySpace": "Mods/CompatSkills/Supports/GalaxySpace/Fuel_Generator.md",
+            "GalaxySpace": "Mods/CompatSkills/Supports/GalaxySpace/Gas_Generator.md",
+            "GalaxySpace": "Mods/CompatSkills/Supports/GalaxySpace/Hydroponic_Farm.md",
+            "GalaxySpace": "Mods/CompatSkills/Supports/GalaxySpace/Liquid_Collector.md",
+            "GalaxySpace": "Mods/CompatSkills/Supports/GalaxySpace/Rocket_Assembly_Machine.md",
+            "GalaxySpace": "Mods/CompatSkills/Supports/GalaxySpace/Universal_Recycler.md"
+          },
           "GameStages": {
             "GameStages": "Mods/CompatSkills/Supports/GameStages/GameStages.md",
             "GameStages Locks": "Mods/CompatSkills/Supports/GameStages/GameStagesLock.md",
